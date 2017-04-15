@@ -1,0 +1,17 @@
+﻿生成启动时间为 2016/12/10 20:20:22。
+     1>项目“D:\Microsoft Visual Studio 10.0\数据结构\Graph_DFS_BFS\Graph_DFS_BFS\Graph_DFS_BFS.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Graph_DFS_BFS.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+         Graph_DFS_BFS.vcxproj -> D:\Microsoft Visual Studio 10.0\数据结构\Graph_DFS_BFS\Debug\Graph_DFS_BFS.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Graph_DFS_BFS.unsuccessfulbuild”。
+         正在对“Debug\Graph_DFS_BFS.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Microsoft Visual Studio 10.0\数据结构\Graph_DFS_BFS\Graph_DFS_BFS\Graph_DFS_BFS.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.06
